@@ -72,3 +72,4 @@ def fetch_weekly_data_tv(universe, output_prefix, bars=500):
 
 # Example usage
 fetch_weekly_data_tv(universe='All Cap', output_prefix='weekly')
+# new feature
